@@ -1,2 +1,2 @@
 this is hello
-I am the first man , and add something here.
+I fixed the conflict and this is the correct file.
