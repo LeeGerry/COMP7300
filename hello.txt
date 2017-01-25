@@ -1,3 +1,0 @@
-this is hello
-I fixed the conflict and this is the correct file.
-the first one fix it again.
