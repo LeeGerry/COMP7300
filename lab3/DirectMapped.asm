@@ -1,5 +1,5 @@
 # Program: Direct mapping
-# Author: Group 2 (Guorui Li, Sicheng Li, Yang Cao)
+# Author: 
 # Nov 10, 2016
 .data  
 comma:		.asciiz ","
