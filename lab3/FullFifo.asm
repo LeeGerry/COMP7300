@@ -1,5 +1,4 @@
 # Program: Fully associative - FIFO
-# Author: Group 2 (Guorui Li, Sicheng Li, Yang Cao)
 # Nov 10, 2016
 
 .data  
